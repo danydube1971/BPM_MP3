@@ -1,4 +1,4 @@
-# Afficher BPM des fichiers MP3
+# Affiche le BPM des fichiers MP3
 
 Analyse le BPM des fichiers MP3 situés dans le dossier courant de ce script. 
 Enregistre le résultat dans un fichier texte BPM.txt dans l'ordre BPM ascendant.
